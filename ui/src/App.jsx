@@ -1,25 +1,17 @@
-import { useState, useEffect, useRef } from 'react';
-import axios from 'axios';
+import { useState, useRef } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import axios from 'axios';
 import './App.css';
+
 import BasicNavbar from './components/nav';
-import TestConnection from './components/test-connection';
 import Home from './pages/home';
 import Team from './pages/teams';
 import CircularLayout from './pages/about';
 import Feature from './components/features';
 import Footer from './components/footer';
+import FormPage from './pages/predictForm'; 
+
 function App() {
-  const [users, setUsers] = useState([]);
-
-  useEffect(() => {
-    axios.get('http://127.0.0.1:8000/api/users')  // Adjust the URL to your Laravel API route
-      .then(response => {
-        setUsers(response.data);
-      })
-      .catch(error => console.error('Error fetching data: ', error));
-  }, []);
-
   // References to sections
   const homeRef = useRef(null);
   const aboutRef = useRef(null);
@@ -29,17 +21,21 @@ function App() {
   const scrollToSection = (ref) => {
     ref.current.scrollIntoView({ behavior: 'smooth' });
   };
+  // const response = await axios.post('http://127.0.0.1:5000/predict', formData);
 
+  const fetchPrediction = async (data) => {
+    const response = await axios.post('http://127.0.0.1:8000/api/predict', data);
+    return response.data;
+  };
   return (
-    <>
-      <TestConnection />
-      <Router>
-        <BasicNavbar scrollToSection={scrollToSection} refs={{ homeRef, aboutRef, teamRef }} />
-        <Routes>
-          {/* Define routes if needed */}
-        </Routes>
-      </Router>
+    <Router>
+      <BasicNavbar scrollToSection={scrollToSection} refs={{ homeRef, aboutRef, teamRef }} />
       
+      {/* Define routes */}
+      <Routes>
+        <Route path="/predictForm" element={<FormPage />} />
+      </Routes>
+
       <div ref={homeRef}>
         <Home />
       </div>
@@ -47,13 +43,15 @@ function App() {
       <div ref={aboutRef}>
         <CircularLayout />
       </div>
+
       <Feature />
+
       <div ref={teamRef}>
         <Team />
       </div>
-      
+
       <Footer />
-    </>
+    </Router>
   );
 }
 

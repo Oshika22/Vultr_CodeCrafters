@@ -1,0 +1,1001 @@
+Weight (kg),Gestational Age (weeks),"Family History (1=yes, 0=no)",Blood Type of Baby,Blood Type of Mother,Baby Feeding Frequency,Diaper Wetting Frequency,"Bruises (1=yes, 0=no)",Race,Jaundice Risk
+3.249080237694725,38,0,A,AB,High,Medium,0,Hispanic,Low
+4.401428612819832,40,0,B,B,High,High,0,White,Low
+3.96398788362281,37,0,AB,A,Medium,Low,0,Other,Low
+3.697316968394073,39,1,B,Rh-,High,Medium,0,Hispanic,Mild
+2.812037280884873,35,0,O,O,Medium,High,0,Other,Low
+2.8119890406724055,39,1,B,Rh-,Medium,Medium,0,Black,Mild
+2.616167224336399,40,1,A,AB,High,High,0,Black,Mild
+4.23235229154987,40,0,O,O,High,High,0,Other,Low
+3.7022300234864174,35,1,A,O,Medium,High,0,Hispanic,Mild
+3.916145155592091,36,0,AB,A,High,Low,1,White,Moderate
+2.541168988591605,35,0,A,AB,Medium,Low,0,East Asian,High
+4.439819704323988,38,0,A,B,High,Medium,0,White,Low
+4.164885281600844,37,1,B,A,Medium,High,1,East Asian,Moderate
+2.9246782213565523,36,1,A,A,Medium,High,0,East Asian,Moderate
+2.8636499344142012,35,0,O,Rh-,Medium,High,0,Hispanic,Low
+2.8668090197068676,39,0,O,Rh-,Medium,High,0,Other,Low
+3.1084844859190754,36,0,AB,Rh-,Medium,High,0,White,Mild
+3.549512863264476,36,0,O,A,High,High,0,Other,Mild
+3.3638900372842313,35,0,B,B,High,Medium,0,Black,Low
+3.082458280396084,36,0,AB,O,High,Medium,1,Hispanic,Mild
+3.723705789444759,39,0,O,Rh-,Medium,High,1,Hispanic,Low
+2.778987721304084,40,0,B,B,High,Low,0,Black,Mild
+3.0842892970704363,36,1,O,AB,Medium,Low,0,White,High
+3.2327236865873834,40,0,O,Rh-,Low,High,0,Black,Low
+3.412139968434072,39,0,A,O,High,High,0,White,Low
+4.070351922786028,35,0,O,AB,High,Low,0,East Asian,High
+2.8993475643167193,37,1,O,AB,Low,High,0,Hispanic,Moderate
+3.5284688768272234,36,1,B,O,Low,High,1,White,High
+3.684829137724085,37,0,B,Rh-,High,Medium,1,Other,Mild
+2.5929008254399957,39,0,A,A,Low,Low,0,Other,Moderate
+3.7150897038028767,36,0,O,O,High,Low,0,Hispanic,Mild
+2.841048247374583,40,0,A,O,High,High,0,Black,Low
+2.630103185970559,38,0,O,O,Medium,High,0,Black,Low
+4.397771074506666,37,0,AB,AB,Medium,High,0,White,Low
+4.431264066149119,36,0,AB,B,Medium,High,0,Black,Low
+4.1167946962329225,37,0,A,A,High,Low,0,Hispanic,Low
+3.109227538346741,36,0,A,Rh-,High,Low,0,White,Moderate
+2.6953442280127677,35,0,A,Rh-,High,High,0,East Asian,High
+3.8684660530243136,40,0,B,B,High,Low,0,Black,Low
+3.3803049874792026,37,1,B,O,High,Medium,0,Black,Low
+2.7440764696895577,38,0,B,A,High,Medium,0,White,Low
+3.4903538202225404,38,1,A,Rh-,High,Low,0,Other,Moderate
+2.568777042230437,39,0,O,Rh-,High,Medium,1,Black,Mild
+4.318640804157564,36,0,AB,O,High,Medium,0,Hispanic,Low
+3.017559963200034,37,0,A,B,High,Medium,0,Black,Low
+3.825044568707964,39,0,B,A,High,Low,0,East Asian,Mild
+3.123422152178822,37,0,B,B,Low,High,0,Black,Low
+3.5401360423556216,36,0,A,B,High,High,0,Other,Low
+3.5934205586865593,38,0,A,A,Medium,Medium,0,Black,Low
+2.8697089110510543,35,0,B,A,Medium,High,0,White,Low
+4.439169255529118,38,0,O,Rh-,Low,Medium,0,Black,Low
+4.050265646722229,39,0,B,Rh-,High,High,0,Other,Low
+4.3789978831283785,40,0,B,A,High,High,0,White,Low
+4.289654700855298,35,0,A,AB,Medium,High,0,Hispanic,Low
+3.69579995762217,39,0,O,Rh-,High,High,0,White,Low
+4.343748470046234,36,0,B,AB,High,Low,0,East Asian,Moderate
+2.676985004103839,35,1,B,A,Medium,Low,0,White,High
+2.8919657248382906,39,0,AB,Rh-,High,High,0,Hispanic,Low
+2.590454577821076,36,0,A,B,High,Medium,1,Black,Moderate
+3.150660661526529,38,1,AB,A,High,Medium,0,White,Low
+3.2773545793789642,40,0,AB,O,High,High,1,White,Low
+3.0426980635477916,36,0,B,AB,High,High,1,White,Mild
+4.157475018303859,37,0,A,A,Low,High,0,White,Low
+3.213506653387179,36,0,O,A,Medium,Medium,0,Hispanic,Mild
+3.0618690193747615,36,0,B,Rh-,Low,High,0,Other,Moderate
+3.585392166316497,40,0,O,Rh-,High,Low,1,Other,Mild
+2.7818484499495253,37,0,O,Rh-,Medium,Low,0,White,Mild
+4.104393961508079,39,0,A,O,Medium,High,0,Hispanic,Low
+2.6491012873595414,39,1,AB,Rh-,High,Low,0,Hispanic,High
+4.473773873201035,36,0,A,A,High,Medium,0,White,Low
+4.044489538593314,37,0,O,Rh-,High,High,0,East Asian,Low
+2.897431363068345,37,0,B,B,Low,Medium,0,White,Low
+2.511044234247205,40,0,O,Rh-,Low,Low,0,East Asian,High
+4.1309228569096685,38,0,B,O,Medium,Medium,1,White,Low
+3.9137146876952342,39,0,B,B,Medium,Medium,0,East Asian,Low
+3.9580143360819746,40,0,A,A,Low,Medium,0,East Asian,Mild
+4.042540693371891,35,1,O,A,High,High,0,White,Moderate
+2.648089303468181,39,0,AB,AB,High,High,0,East Asian,Mild
+3.2169314570885454,40,0,O,B,Medium,Medium,0,Black,Low
+2.7317381190502594,39,0,O,AB,High,High,0,Other,Mild
+4.226206851751187,38,0,AB,B,High,Low,0,Hispanic,Low
+3.746596253655116,35,0,A,B,Medium,Medium,0,East Asian,Mild
+3.1617960497052984,38,0,O,O,High,High,0,East Asian,Low
+2.6271167005720475,35,0,O,AB,Medium,Medium,0,Hispanic,Moderate
+3.1219646434313244,36,0,B,O,Medium,High,0,East Asian,Mild
+3.150366644053494,40,0,O,B,High,Medium,0,Hispanic,Low
+3.959212356676128,35,0,AB,A,Medium,High,0,White,Low
+3.7751149427104265,38,0,B,B,High,Medium,0,Black,Low
+4.274425485152653,39,0,A,O,Medium,Medium,0,Black,Low
+3.444429850323899,35,0,B,AB,High,Medium,0,Other,Low
+2.7391884918766034,40,0,AB,AB,High,High,1,East Asian,Moderate
+3.92648957444599,35,0,AB,O,Medium,High,1,Other,Mild
+4.021570097233795,37,0,B,AB,Low,High,0,White,Low
+3.6225543951389927,39,0,A,Rh-,High,Medium,0,Black,Low
+4.041934359909122,40,0,B,A,High,Low,0,White,Low
+3.4875911927287815,40,1,A,A,High,Medium,0,White,Low
+3.5454656587639883,36,0,B,A,High,High,0,East Asian,Mild
+3.355082036717099,38,1,AB,AB,High,High,0,White,Low
+2.55083825348819,36,0,O,AB,High,Medium,0,Black,Moderate
+2.715782853986609,40,0,O,B,High,High,0,Other,Mild
+2.5628583713734683,39,0,A,B,High,Medium,0,Black,Low
+3.772820822527561,35,0,A,A,High,High,0,East Asian,Mild
+3.1287119621526536,35,0,A,Rh-,High,High,0,Black,Mild
+3.5171413823294055,39,0,AB,B,Medium,Medium,0,Hispanic,Low
+4.315132947852186,40,0,B,B,High,Medium,0,Other,Low
+2.99858445829775,35,0,AB,AB,High,High,0,Hispanic,Low
+3.3207658460712595,35,0,O,Rh-,Medium,High,0,Hispanic,Low
+4.011102277086097,35,0,A,A,Low,High,0,East Asian,Moderate
+2.957596330983245,38,0,B,B,Medium,High,0,White,Low
+2.6539598196575858,38,0,O,Rh-,High,Medium,0,Hispanic,Low
+3.0795029058275363,37,0,O,Rh-,High,High,0,Black,Low
+2.822442574508009,36,0,O,A,Medium,High,1,White,Moderate
+4.359395304685146,39,0,AB,Rh-,High,High,0,Black,Low
+4.116240759128834,39,1,A,Rh-,High,Medium,0,Black,Mild
+3.766807513020847,39,1,O,Rh-,Medium,Medium,0,White,Low
+4.242921180375435,37,0,A,B,High,Medium,0,White,Low
+4.107344153798229,38,0,AB,A,High,Low,0,Black,Low
+2.8731401177720715,40,0,O,Rh-,High,Low,0,East Asian,Mild
+4.285117996979956,40,0,AB,Rh-,High,Medium,0,Other,Low
+3.578684483831301,37,0,AB,B,High,Low,0,Other,Low
+4.114880310328125,40,0,A,A,High,Low,0,East Asian,Mild
+4.292182599846987,39,0,O,AB,Medium,High,1,White,Mild
+3.1360069499437278,36,1,AB,B,High,Low,0,Black,Moderate
+2.7201038490553535,35,0,O,A,High,Low,0,Other,High
+2.9558703250838834,38,0,A,Rh-,High,Medium,0,Black,Low
+3.3542155772525124,38,0,AB,A,Medium,Medium,0,East Asian,Low
+4.1360295318449865,37,1,A,A,High,High,0,Black,Low
+4.221461166512687,38,0,O,A,Low,Low,0,East Asian,High
+2.5139042610623816,39,0,O,AB,High,High,1,White,Moderate
+3.5214946051551315,40,0,A,A,Medium,High,0,East Asian,Low
+3.334822006297558,39,0,B,AB,Medium,High,0,East Asian,Low
+2.9442156209414607,37,0,AB,Rh-,High,High,0,Other,Low
+2.739730734667366,39,0,O,AB,Low,High,0,Black,Moderate
+3.175230342807256,40,0,O,Rh-,High,High,0,Other,Low
+4.385819407825038,36,0,AB,Rh-,High,Low,0,Hispanic,Moderate
+3.1464058640415105,37,0,A,AB,High,Medium,0,East Asian,Low
+3.5375812434867324,36,0,A,B,Medium,High,0,Hispanic,Low
+3.9060379177903557,35,0,A,O,Medium,Medium,0,Other,Low
+3.227259204758588,36,0,B,A,High,Low,1,Black,Moderate
+4.443564165441922,35,0,B,O,High,High,0,Other,Low
+4.4248945898842225,35,0,O,A,High,High,0,Black,Mild
+3.0035645916507283,36,1,A,A,High,Low,0,Black,Moderate
+3.494497011784771,37,0,AB,Rh-,Medium,High,0,White,Low
+3.101756619633539,40,0,O,A,High,Low,0,East Asian,Moderate
+3.0696809887549352,39,0,AB,A,High,High,0,Other,Low
+2.5737738947090656,39,0,O,AB,Medium,Medium,1,Black,Moderate
+3.7191286679597937,40,0,B,O,Medium,Medium,0,Other,Low
+3.505358046457723,35,0,O,AB,High,High,0,Other,Mild
+2.6029575024999785,35,0,B,A,Low,Medium,0,Black,Moderate
+3.057292928473223,37,0,O,Rh-,Medium,High,0,Hispanic,Low
+4.316531771933308,38,0,A,AB,High,Medium,0,East Asian,Low
+2.9791237813339446,36,0,AB,AB,Medium,Medium,0,East Asian,Mild
+2.789789744182446,35,0,A,B,Low,High,0,White,Moderate
+3.4789055205551263,39,0,O,A,High,Low,0,White,Mild
+4.471300908221202,37,0,O,Rh-,High,Medium,1,White,Low
+2.984110543023001,36,0,O,AB,High,Medium,0,East Asian,Moderate
+3.844271094811757,37,1,B,AB,High,High,0,Hispanic,Low
+4.023239230657435,36,0,AB,Rh-,High,High,1,East Asian,High
+2.9752750879847993,36,0,AB,A,High,High,0,East Asian,Mild
+3.956432697223719,40,0,O,B,Medium,Medium,0,East Asian,Mild
+3.2355662654385062,35,0,O,AB,High,Medium,1,East Asian,High
+3.7646116611871587,37,0,B,B,High,Medium,0,Hispanic,Low
+3.7670594215217896,37,0,A,O,Medium,High,0,White,Low
+3.571549368149517,40,0,A,A,Medium,Medium,0,Other,Low
+2.6805795401088166,39,0,AB,O,High,High,0,White,Low
+4.170604991178476,39,0,B,O,Medium,Medium,0,White,Low
+3.1415601299434717,35,0,O,O,Low,High,0,Other,Mild
+2.8730370207997087,35,0,AB,A,High,High,0,East Asian,Mild
+2.581550283109528,38,1,B,A,High,High,0,Hispanic,Mild
+3.681785886376484,40,0,A,Rh-,High,Medium,0,Hispanic,Low
+3.855128723684565,39,0,B,B,Low,Low,0,White,Mild
+2.533175657855712,36,1,A,B,Low,Medium,1,Other,Very High
+3.524186116598562,37,0,B,Rh-,High,Medium,0,Black,Low
+2.952991550395876,35,0,AB,Rh-,High,Low,1,East Asian,Very High
+3.7903455808189,37,0,A,O,Medium,High,0,White,Low
+2.848732858009983,37,0,AB,Rh-,High,Medium,0,Hispanic,Low
+3.881875476204932,38,0,AB,AB,Medium,High,0,Other,Low
+3.273470692601075,39,0,A,B,High,High,0,Other,Low
+4.373459977473469,35,0,A,Rh-,High,Low,0,White,Moderate
+2.7750418882919865,37,1,O,AB,High,High,0,Black,Moderate
+3.182132702100517,35,0,O,AB,High,Low,0,Hispanic,Moderate
+2.726947042481178,36,0,O,AB,Medium,Medium,0,White,Moderate
+4.349387236557126,38,0,AB,AB,High,Medium,0,Black,Low
+4.254678706761962,36,0,AB,O,High,High,0,Other,Low
+3.015883255430311,35,0,O,AB,Medium,Low,0,East Asian,High
+3.819968092068358,35,1,AB,O,High,Medium,0,Hispanic,Mild
+4.134444400402431,39,0,AB,O,Medium,High,0,Hispanic,Low
+3.610401623198925,37,0,A,AB,High,Medium,0,Black,Low
+3.5593011567120127,37,0,A,B,High,High,0,White,Low
+2.9837045818009034,36,1,AB,AB,High,High,1,Other,Moderate
+2.6862055356117986,38,0,O,AB,Low,High,0,Black,Moderate
+4.294431515906654,40,0,B,AB,High,Low,0,East Asian,Mild
+4.3008361143266605,37,0,O,B,High,Medium,0,East Asian,Mild
+3.766202914546536,39,1,B,A,High,Medium,1,East Asian,Moderate
+3.1780595820974016,36,0,O,A,Medium,Medium,0,Black,Mild
+3.198419149225322,36,1,A,O,High,Medium,1,Other,Moderate
+3.951911357740479,40,0,AB,O,High,Medium,0,Hispanic,Low
+4.294220519905155,39,0,AB,B,Medium,High,0,White,Low
+4.274172848530235,38,0,A,Rh-,Medium,High,1,Hispanic,Mild
+4.059751091715247,39,0,B,A,High,Low,0,Other,Low
+3.7840632923085753,38,0,B,O,High,Medium,0,Hispanic,Low
+2.6682799299900974,39,0,B,A,Medium,Medium,0,Black,Low
+2.8232574281892275,39,0,A,B,Medium,Medium,1,East Asian,Mild
+4.297108377054158,35,0,B,B,Medium,High,0,Other,Low
+3.71285811931918,36,0,A,Rh-,High,High,0,Other,Mild
+2.518394103233259,39,1,O,Rh-,High,High,0,Hispanic,Mild
+2.7029430857320644,40,1,O,B,High,High,0,Black,Moderate
+3.8270035382161116,39,0,A,O,High,High,1,Hispanic,Low
+2.5101231676924374,37,0,AB,A,High,High,0,Hispanic,Low
+2.821616102834997,36,0,O,AB,Low,Medium,0,Other,Moderate
+3.5974675787331725,37,0,B,Rh-,Low,High,1,Hispanic,Moderate
+3.8837903953853865,36,0,A,AB,Medium,Medium,0,East Asian,Mild
+3.803922519005201,37,0,B,O,High,Low,0,Hispanic,Low
+2.94853861892112,39,0,B,Rh-,High,Medium,0,East Asian,Mild
+3.9243584426950715,39,0,AB,AB,Medium,Medium,0,Other,Low
+2.9744981749936,35,0,B,O,Medium,High,0,Black,Low
+3.1507993963185355,40,0,AB,A,High,Medium,0,East Asian,Low
+3.9929828102360485,37,0,O,O,High,Medium,0,Black,Low
+3.7992657980944293,38,0,A,Rh-,Medium,Medium,0,Black,Low
+4.198446820988356,35,0,B,B,High,High,0,East Asian,Mild
+3.8152257846006865,37,0,A,A,High,Low,0,Other,Low
+3.6366172066709432,37,0,B,AB,Medium,High,0,White,Low
+2.687349535656185,35,1,A,Rh-,High,High,0,Black,High
+3.2354316061188673,39,0,B,B,Low,High,1,Black,Mild
+3.030404735363451,37,0,B,O,High,High,0,Other,Low
+2.987979286758167,39,0,B,B,High,Low,0,Other,Low
+4.446021109504891,35,0,B,Rh-,High,Medium,0,Hispanic,Mild
+3.286195449333521,39,0,B,Rh-,High,High,0,Other,Low
+4.284093110354227,36,0,B,B,Medium,Low,0,Black,Mild
+3.762277251994526,38,0,B,O,High,Medium,0,East Asian,Low
+4.089622607083297,37,1,B,B,High,High,0,White,Low
+3.505274186210384,40,0,B,Rh-,High,Medium,1,Hispanic,Mild
+3.653807769252718,38,0,A,Rh-,High,High,0,East Asian,Mild
+3.485035387637728,39,0,AB,AB,High,Low,0,White,Low
+2.890485975596089,37,0,B,AB,High,High,0,White,Low
+3.9449042305230106,39,0,AB,A,Medium,High,0,White,Low
+3.0615447248817116,36,0,B,Rh-,High,High,0,East Asian,Moderate
+2.5486319328629077,35,0,B,AB,High,Medium,0,Hispanic,Mild
+3.790944591814336,37,0,A,B,High,High,0,Hispanic,Low
+2.854221358814098,36,0,O,O,High,High,0,White,Low
+4.380917168705828,36,0,O,B,Medium,Medium,0,East Asian,Moderate
+4.407857154005175,37,0,A,O,Medium,Medium,0,White,Low
+4.329728780440897,39,0,AB,AB,High,High,0,Other,Low
+3.2403174005108886,40,0,O,A,High,High,0,Hispanic,Low
+2.530913233057735,36,0,A,B,Medium,Medium,0,Black,Mild
+4.3566371251754505,38,0,A,B,High,High,0,White,Low
+3.3563682966346287,36,0,O,B,Medium,Medium,0,Other,Mild
+4.433309638087339,40,1,AB,O,High,Medium,1,Hispanic,Mild
+4.427239954178505,39,0,A,AB,High,High,0,East Asian,Low
+4.20601891093472,39,0,B,B,Low,High,0,Hispanic,Low
+3.0888977841391716,38,0,AB,B,Medium,High,0,East Asian,Low
+3.2701954572038505,36,0,AB,A,Low,High,0,East Asian,Moderate
+4.202273343033713,39,1,O,A,High,Medium,0,White,Mild
+3.133844010312555,40,1,O,AB,Medium,Low,1,White,High
+2.838985493372185,37,0,B,AB,Medium,Low,0,Hispanic,Low
+3.6136025249167005,35,0,A,Rh-,High,High,1,Other,Moderate
+4.372309548321562,35,0,O,A,High,High,1,Hispanic,Moderate
+3.892059593349946,35,1,O,Rh-,High,Medium,0,Black,Mild
+3.64012234017873,36,0,AB,O,High,Low,0,East Asian,Moderate
+2.694352987541537,38,0,O,Rh-,Low,Low,0,East Asian,High
+3.7300144533983395,39,0,O,B,High,High,0,White,Low
+4.480107700208526,37,0,O,Rh-,High,Medium,1,Other,Low
+2.780168030473048,40,0,O,AB,High,Medium,0,White,Mild
+3.5366593047274737,37,0,AB,O,Medium,High,1,Black,Low
+4.254746143855911,40,0,B,B,High,High,0,Hispanic,Low
+3.9815372355084087,36,0,B,Rh-,High,High,1,Hispanic,Moderate
+3.894031481990536,35,0,A,O,High,High,1,Other,Mild
+3.9049681679742188,36,0,O,O,Medium,Low,0,White,Mild
+3.2189823024395103,38,0,AB,B,Medium,High,0,White,Low
+3.0871836885289867,38,0,A,Rh-,Medium,High,0,Black,Low
+4.118722310957027,40,0,A,O,Medium,High,0,Hispanic,Low
+4.1202267893583615,39,0,B,O,High,Medium,1,White,Low
+4.234144637160208,39,0,AB,A,Medium,Low,0,Other,Low
+4.326481105112943,40,0,AB,O,High,Low,0,Hispanic,Low
+3.5226847977218756,38,0,AB,A,Medium,Medium,0,Black,Low
+3.503032589374399,38,0,B,Rh-,Medium,High,0,Other,Low
+4.09659035793355,38,0,B,Rh-,High,Low,0,East Asian,Moderate
+3.7999278615555303,36,0,B,Rh-,Low,Medium,0,Black,Moderate
+3.903933754515407,38,0,B,AB,High,Medium,0,Other,Low
+4.091585338872202,37,0,B,Rh-,High,Low,0,White,Mild
+4.280010683635132,35,0,O,O,Medium,Medium,0,East Asian,Mild
+3.1759903137030716,38,0,O,B,Low,Medium,0,Black,Mild
+3.251165905279888,40,0,AB,A,Medium,Medium,0,White,Low
+2.687963879681738,35,0,A,AB,Low,High,0,East Asian,High
+3.656560281992348,36,0,AB,Rh-,Medium,High,0,Hispanic,Mild
+2.571884547593484,40,0,A,Rh-,Medium,Low,0,White,Moderate
+3.4311960362649203,35,0,B,B,Medium,High,0,Other,Low
+3.5852892694151532,40,0,A,B,High,High,0,Black,Low
+3.073082504256569,36,0,AB,AB,High,High,1,East Asian,Moderate
+3.6816665211380215,37,0,AB,A,High,Low,0,White,Low
+2.561000499878099,36,0,A,Rh-,Medium,Low,1,Hispanic,Very High
+2.574696377498429,36,0,O,AB,Medium,Low,0,Black,High
+4.1452011213193165,40,0,B,O,High,Low,0,Black,Low
+3.220381282822526,39,0,B,O,High,Medium,0,White,Low
+2.7541210253037693,38,0,AB,AB,High,High,0,Hispanic,Low
+3.5444865201096087,38,1,O,Rh-,Medium,Medium,0,East Asian,Mild
+4.039987106197222,37,1,A,AB,High,Medium,0,White,Low
+2.931642054993686,37,0,B,Rh-,High,High,0,East Asian,Mild
+3.7457809516380003,38,0,O,B,Medium,Low,0,Black,Mild
+2.670694929987536,39,0,B,AB,High,High,0,East Asian,Mild
+2.6033634423372156,38,0,O,Rh-,High,High,0,Hispanic,Low
+3.5627092631362958,39,0,O,AB,Medium,High,0,Other,Low
+3.581270243220213,37,0,AB,AB,Medium,High,0,Hispanic,Low
+3.774859802996413,35,0,B,Rh-,High,Medium,0,East Asian,Moderate
+3.952182667445323,40,0,A,Rh-,High,High,0,White,Low
+4.451704158925069,37,0,AB,A,Medium,High,0,Black,Low
+3.5326006966023904,37,0,AB,AB,Medium,High,0,Other,Low
+3.145912945882492,36,0,A,O,Medium,Medium,1,White,Mild
+4.090372389537407,36,0,AB,AB,High,High,0,White,Low
+3.0416645025241484,36,0,O,AB,Medium,Low,0,Hispanic,Moderate
+3.377942841411272,40,0,O,Rh-,High,High,0,East Asian,Low
+2.6569127626845317,36,0,B,AB,Medium,Low,0,Hispanic,Moderate
+2.5507014868309152,39,0,B,AB,Medium,High,0,East Asian,Mild
+4.42529682935585,38,0,A,O,High,High,0,Hispanic,Low
+4.171960241024411,35,0,B,Rh-,High,Medium,0,White,Mild
+3.891948412187396,37,0,O,AB,High,Medium,0,Black,Low
+3.3179058888285398,39,1,A,B,High,Medium,0,East Asian,Mild
+2.8465886401416913,35,0,A,A,High,High,0,Other,Low
+2.8128740853421723,39,0,B,O,Low,High,0,Other,Low
+3.0004857963291904,39,1,O,AB,High,High,0,White,Mild
+3.5984533294122407,37,0,A,B,Medium,High,0,Hispanic,Low
+3.9291918454001244,38,0,O,AB,High,High,0,Hispanic,Low
+3.8203947534354628,36,0,O,AB,High,Medium,0,White,Mild
+3.0598677938918857,40,0,O,Rh-,Medium,Medium,0,Other,Low
+4.409730561326388,38,0,B,Rh-,High,High,0,Other,Low
+3.975793833391537,40,0,AB,Rh-,Low,Medium,1,Hispanic,Moderate
+3.608708105022801,37,0,AB,B,Medium,Low,0,East Asian,Mild
+3.7234414924687043,37,0,A,AB,High,Low,1,Black,Mild
+3.33920012485558,37,0,O,A,Medium,Low,0,East Asian,Moderate
+2.995461979002315,35,0,B,O,High,High,0,Other,Low
+3.211945357302523,40,0,O,Rh-,Low,Medium,0,East Asian,Mild
+4.015692220928738,38,0,O,Rh-,Medium,High,0,Black,Low
+2.5287869772595117,38,0,B,AB,Medium,Medium,0,East Asian,Mild
+2.7321452810138327,39,0,AB,AB,Medium,Medium,0,East Asian,Mild
+2.5920052840435055,39,0,O,B,High,Medium,0,East Asian,Moderate
+2.58145760463794,39,0,O,B,High,High,1,East Asian,High
+4.210921168022015,37,0,AB,Rh-,High,High,0,White,Low
+3.9073157187600476,38,1,B,AB,High,High,0,Other,Low
+3.4483476581746504,40,0,A,A,Medium,High,0,Black,Low
+2.695668321302003,37,0,AB,O,High,High,0,Other,Low
+3.4832317502336645,35,0,A,AB,Medium,High,0,White,Low
+3.446943541561131,39,0,A,AB,Medium,High,0,White,Low
+2.8464037398200306,37,0,AB,B,High,High,1,White,Low
+3.367703298475946,37,1,O,O,Low,Low,0,White,Moderate
+3.297009468794747,35,0,A,Rh-,Medium,High,0,East Asian,Moderate
+3.731700196104433,36,0,A,AB,High,High,0,Other,Low
+3.7701873017352874,38,0,B,Rh-,High,High,1,Hispanic,Mild
+2.590608019544089,40,0,O,AB,High,Medium,0,Black,Mild
+3.2492252292529424,36,0,A,Rh-,Low,High,0,White,Moderate
+3.7517198314284728,39,0,B,O,Medium,High,0,Other,Low
+3.506272517160175,37,0,O,B,High,Medium,0,White,Low
+4.212979682376645,35,0,AB,O,Medium,High,0,White,Low
+3.8173872632378902,35,0,AB,A,High,Low,0,White,Mild
+2.8258688541628594,38,1,B,B,Low,Low,1,White,High
+2.6411374948008595,36,0,AB,O,High,Low,1,White,High
+3.7848385564126312,38,0,A,A,Low,Low,0,Black,Mild
+2.553022621083244,37,0,O,AB,High,High,0,Other,Mild
+3.6715511625469266,38,0,A,AB,High,Low,0,White,Low
+4.380460482849915,40,1,A,Rh-,High,Medium,1,White,Moderate
+3.650948355751758,35,0,AB,B,Medium,Low,0,White,Mild
+3.276339852413044,35,0,A,AB,High,Medium,0,White,Low
+3.7865764368847064,39,1,AB,B,High,Low,0,East Asian,Moderate
+3.4165057809830333,39,0,O,AB,Medium,High,0,East Asian,Mild
+3.59123357863187,37,1,O,Rh-,High,Low,0,Hispanic,Mild
+4.38292961755305,40,0,A,O,Low,High,0,White,Low
+3.2722052756015483,36,0,B,Rh-,Medium,High,0,Hispanic,Mild
+4.422381127647828,38,0,AB,A,High,Low,1,Black,Mild
+4.3107012839121275,37,0,AB,AB,Medium,High,0,Hispanic,Low
+2.891582269578593,39,1,A,A,High,Low,0,Other,Mild
+2.638722601750331,38,0,AB,A,Medium,Medium,0,East Asian,Mild
+2.7015560027548533,39,0,AB,B,High,Low,0,East Asian,Moderate
+2.5364436513030997,38,0,B,AB,High,Medium,0,White,Low
+2.688885921511857,36,0,B,A,High,High,0,White,Mild
+3.866013546832714,37,0,A,O,Medium,High,0,Black,Low
+2.6423772969204578,38,1,B,A,Medium,Medium,1,Black,Moderate
+3.1379512605875224,40,0,A,O,High,High,0,Other,Low
+4.189750621938909,35,0,O,B,Low,Low,0,White,High
+2.546543871471652,40,0,A,A,Low,High,0,White,Mild
+4.128936965177871,40,0,O,Rh-,High,Medium,0,Black,Low
+3.0637095495468,35,0,A,B,High,Low,0,Black,Mild
+2.7363296552433125,40,0,AB,O,High,Low,1,Black,Moderate
+3.893474330728301,38,1,B,B,Medium,Low,0,East Asian,Moderate
+3.7578856935597678,38,0,O,A,Medium,High,0,Hispanic,Low
+4.254944027054106,38,0,A,AB,Medium,High,1,Hispanic,Low
+3.9701420876077718,35,0,B,AB,High,Low,0,White,Mild
+4.106961860769697,40,1,A,O,High,High,0,East Asian,Mild
+3.064069145142613,35,0,B,O,High,High,0,Black,Low
+2.8548790875594454,38,0,B,AB,High,High,0,White,Low
+4.001229503281717,40,0,A,O,High,Medium,0,East Asian,Low
+4.113669478534528,40,0,O,B,High,Medium,0,Other,Low
+4.481010284001346,39,0,O,Rh-,Medium,High,0,East Asian,Low
+3.325235353822853,39,0,AB,Rh-,High,High,0,White,Low
+3.2440361715855666,36,0,B,B,High,Medium,0,Hispanic,Low
+4.0528259214839935,37,0,AB,Rh-,High,Low,0,Black,Mild
+3.1816070805060357,39,1,AB,A,High,Medium,0,Other,Low
+4.36151465120713,35,0,A,B,High,High,1,East Asian,Moderate
+4.216825503686024,39,0,A,O,High,High,0,White,Low
+3.3579880547500367,36,0,A,B,High,Low,0,White,Mild
+4.001742135582995,40,0,B,AB,High,High,0,Black,Low
+4.0090857481693645,36,0,A,O,Medium,High,0,White,Low
+2.706247737671865,40,0,A,AB,Low,High,1,White,Moderate
+4.305105813359133,40,0,B,O,High,High,0,Black,Low
+3.510504744895714,37,0,B,Rh-,High,High,0,Other,Low
+4.1529149322154835,39,0,O,B,Low,Medium,0,Hispanic,Mild
+3.1400992020612235,35,0,A,A,High,High,0,Hispanic,Low
+4.291046456992401,35,0,A,O,Low,Low,0,East Asian,High
+3.278403357468326,38,0,A,O,Medium,Low,0,Other,Low
+2.5216753029605967,40,0,O,AB,High,Medium,0,East Asian,Moderate
+4.310763952838528,35,0,A,Rh-,Medium,Low,0,Hispanic,Moderate
+2.682573353572267,37,0,O,AB,Low,Medium,0,Black,Moderate
+3.1386272751808297,40,0,AB,AB,Medium,Low,0,White,Low
+4.40012393410161,37,0,O,Rh-,High,High,0,Hispanic,Low
+4.401214293875112,35,0,AB,A,High,Low,1,Other,Moderate
+3.6468757762465724,35,0,A,AB,High,High,0,Hispanic,Low
+3.7636744243395985,38,1,AB,AB,High,Low,0,Other,Mild
+3.3968910439566393,35,1,O,O,Low,High,0,Other,Moderate
+3.086421543396129,40,1,B,Rh-,High,High,0,Other,Mild
+3.157329090739832,40,0,AB,B,Low,Low,1,East Asian,High
+3.845036912154077,40,0,AB,A,High,High,0,Black,Low
+4.00474905887536,38,1,A,A,High,High,0,Hispanic,Low
+4.083158087451697,38,0,O,Rh-,High,High,0,Black,Low
+4.079236285589108,35,0,AB,O,Medium,High,0,White,Low
+2.6824122060973807,36,0,AB,O,High,High,0,Hispanic,Mild
+3.488840609405163,36,0,AB,Rh-,Medium,High,0,Black,Mild
+2.6151175200332886,38,1,AB,O,Low,Medium,0,Black,Moderate
+3.599057764647471,35,0,B,A,High,Low,0,White,Mild
+3.383061002746754,36,0,O,A,Medium,High,0,Other,Mild
+4.2754083655166,35,0,A,B,High,Medium,0,Hispanic,Low
+3.201830025104157,35,0,A,Rh-,Medium,Medium,0,Hispanic,Mild
+2.734134032855212,35,0,B,AB,Medium,Low,0,White,Moderate
+2.7859833641056717,39,0,O,AB,High,Medium,0,Other,Mild
+4.023021263434945,40,0,AB,B,High,High,0,Hispanic,Low
+3.736436126632522,35,1,B,B,High,Medium,0,Hispanic,Mild
+2.7022453522455807,39,0,O,O,High,Medium,0,Hispanic,Low
+2.668213612229995,38,0,AB,B,High,High,1,Other,Mild
+3.90193826291824,36,0,B,B,Medium,High,1,White,Mild
+2.645526012728387,40,0,O,AB,High,Medium,0,Hispanic,Mild
+4.143720118580712,36,0,A,O,High,Medium,0,Black,Low
+3.9124844543129926,40,0,A,B,High,High,0,Other,Low
+2.6626975612837995,36,0,O,B,High,High,0,East Asian,High
+2.669675428170384,40,0,A,O,High,Low,0,White,Mild
+4.4732791570023505,36,1,O,Rh-,High,Low,0,Black,Moderate
+3.2485415915122404,36,0,AB,O,High,Medium,1,Hispanic,Mild
+3.2412842941337816,36,0,O,AB,Low,Medium,0,East Asian,High
+4.125599134515005,36,0,AB,Rh-,Medium,Medium,0,White,Mild
+4.394497154767717,38,0,B,A,High,High,0,Other,Low
+4.472002127645742,35,0,O,O,Medium,Low,0,East Asian,Moderate
+4.006756370517883,37,1,B,AB,High,High,0,East Asian,Mild
+3.2525191710618317,39,1,A,Rh-,Medium,Medium,0,Black,Mild
+2.6670014333973375,37,0,AB,O,High,High,0,White,Low
+4.054293831854873,37,1,O,B,Low,High,0,Black,Moderate
+3.61680849947161,40,0,B,O,Medium,Low,0,Black,Low
+3.348444018493953,35,0,AB,A,High,High,0,Hispanic,Low
+4.312708770189472,40,0,AB,O,High,Low,0,Other,Low
+2.7223949646123025,35,1,A,Rh-,High,High,0,East Asian,Very High
+3.4852502085817183,35,0,A,Rh-,High,High,0,White,Mild
+2.5227072895348384,36,0,AB,O,High,Medium,1,Other,Moderate
+3.4373212839882523,38,0,AB,Rh-,High,Medium,0,Other,Low
+2.6126065513636747,36,0,O,B,High,Medium,1,White,High
+2.737635832536144,38,0,AB,O,Low,High,1,Other,Moderate
+2.7350524935542095,40,1,O,B,High,Medium,0,Hispanic,Moderate
+3.798420604232127,38,0,AB,B,High,Medium,0,Other,Low
+3.9920897585308466,40,0,A,AB,High,Medium,1,Hispanic,Low
+3.666737530194319,37,1,O,O,Low,Low,0,East Asian,High
+4.424345096949084,37,0,B,Rh-,High,High,0,East Asian,Mild
+3.2497411590474083,38,1,A,B,High,Low,1,Black,Moderate
+3.0714241725637215,38,0,O,AB,High,High,0,Hispanic,Low
+4.237198256378921,40,0,O,O,Medium,Low,0,East Asian,Mild
+2.947191677038905,36,0,B,O,High,Medium,0,Other,Low
+4.426445078881223,40,1,O,A,Medium,High,0,White,Mild
+2.5243089493796327,36,0,AB,A,Medium,High,0,White,Mild
+4.439757653415278,37,0,B,B,High,High,0,Hispanic,Low
+2.5863198239011522,35,0,A,A,High,Medium,0,Black,Mild
+4.282286227396142,38,0,A,B,High,Low,0,Other,Low
+3.5554022181726,36,0,AB,Rh-,High,High,0,Hispanic,Mild
+4.485929592238601,40,0,A,B,Medium,Medium,0,White,Low
+2.6475931294707977,37,1,O,A,Medium,Low,0,Hispanic,High
+3.6077085688026416,36,0,O,Rh-,High,High,0,Other,Low
+4.438605071238198,40,0,AB,A,Medium,High,0,East Asian,Low
+3.5461956883402976,38,0,A,B,Medium,High,0,Other,Low
+3.758797276270525,38,1,A,AB,Medium,High,1,East Asian,Moderate
+3.8914973779692343,39,0,AB,O,Low,High,0,East Asian,Mild
+3.4090821295355465,35,0,B,A,High,Low,0,East Asian,Moderate
+3.755116160168127,39,0,A,B,Medium,Low,0,Hispanic,Low
+3.6686286238462005,37,0,B,Rh-,High,High,0,White,Low
+4.302316020981978,36,0,A,A,Low,High,0,Hispanic,Mild
+2.590892760682916,37,0,A,A,High,Medium,0,White,Low
+3.0619263791844604,40,0,A,O,Medium,Medium,0,Other,Low
+4.4008229681531175,38,0,A,B,High,Medium,0,Black,Low
+4.280527567781832,39,0,O,AB,High,High,0,Other,Low
+3.411313505571426,39,0,B,Rh-,Medium,Low,0,Hispanic,Mild
+3.7402651956030732,39,0,B,B,High,Medium,0,Hispanic,Low
+3.054762365962265,37,0,A,Rh-,Medium,High,1,White,Mild
+2.8762423194475226,38,0,A,A,High,High,0,Hispanic,Low
+3.4273968098799643,36,0,B,O,Medium,Low,0,East Asian,Moderate
+3.2067044560521056,40,0,O,O,High,High,0,Hispanic,Low
+3.667312223701744,36,0,AB,AB,Low,High,1,White,Moderate
+2.6554692739299695,37,0,AB,O,High,Medium,0,White,Low
+4.448789615332333,40,0,B,A,Medium,Low,1,East Asian,Moderate
+4.472421488959206,39,0,A,AB,Medium,Medium,0,White,Low
+3.8963234280394903,35,0,A,B,High,Medium,0,Black,Low
+3.572192732688241,37,0,O,O,High,High,0,Other,Low
+3.1190552325726557,37,0,AB,AB,Medium,Low,0,Hispanic,Low
+4.127590039413898,38,0,O,A,Low,High,0,Black,Mild
+3.8694623451077588,36,0,AB,Rh-,Medium,Low,0,Hispanic,Moderate
+2.8252338786897826,37,0,B,Rh-,Medium,Medium,0,Black,Low
+4.321854368987685,37,1,AB,A,Medium,High,1,Hispanic,Mild
+4.145074485846338,39,0,O,A,High,Medium,0,East Asian,Mild
+4.399599826583848,39,0,O,Rh-,Low,Medium,1,White,Mild
+3.95143901677672,40,0,O,AB,Low,Low,0,White,Moderate
+3.7268303918715797,35,0,B,Rh-,High,Medium,0,East Asian,Moderate
+3.3364860725812377,38,0,AB,A,Medium,High,1,Black,Low
+4.3654569667080265,35,0,AB,O,Medium,Medium,0,Other,Low
+4.232127779000817,40,0,O,B,Medium,High,0,Black,Low
+2.590437340212379,39,1,AB,O,High,High,0,White,Mild
+2.5527339489945042,36,0,A,O,Medium,Medium,0,Other,Mild
+3.252926733756099,39,0,A,A,High,Low,0,Hispanic,Low
+4.121106661563665,38,0,A,Rh-,Medium,Medium,0,Other,Low
+4.474552258629889,39,0,AB,AB,High,High,0,Black,Low
+2.8008337822070564,38,0,B,O,Medium,Medium,1,East Asian,Mild
+3.6882614307042703,38,0,B,Rh-,High,High,0,Hispanic,Low
+3.2617817132620432,38,0,B,AB,High,Medium,1,Black,Low
+4.439828795629206,40,0,B,O,High,High,0,Hispanic,Low
+4.184237846271417,38,0,A,AB,Medium,Low,0,Other,Low
+4.176657409422276,38,0,A,Rh-,Medium,High,0,White,Low
+3.4373863195899403,36,0,O,B,Medium,Medium,0,Black,Mild
+3.3296390046753306,35,1,AB,Rh-,Medium,Medium,1,East Asian,Very High
+3.0468141438614125,37,1,AB,A,Medium,Medium,0,Other,Low
+2.6127509933018542,35,0,B,AB,High,Medium,0,Black,Mild
+4.229444752510107,38,0,A,B,Medium,High,0,East Asian,Low
+4.125802018260155,36,0,B,AB,High,Medium,0,Black,Low
+4.499435346572261,39,0,O,AB,High,Low,1,Other,Moderate
+4.493273674147811,36,1,AB,O,High,High,1,Black,Moderate
+3.610863411205255,38,0,AB,A,Low,Medium,0,Hispanic,Low
+4.037974830361021,36,0,B,AB,High,High,0,Other,Low
+4.389531459764856,36,0,O,Rh-,Medium,High,0,Black,Low
+4.199294781354823,38,0,AB,Rh-,High,Medium,0,White,Low
+2.994696203486395,40,0,O,O,High,High,1,Black,Low
+3.4010882706201873,36,1,O,A,High,Medium,0,Hispanic,Moderate
+2.75831883030299,37,0,B,A,High,Low,0,East Asian,Moderate
+4.408102054517444,37,0,A,Rh-,Low,High,0,East Asian,Moderate
+3.71234926890176,36,1,B,B,Medium,High,1,East Asian,High
+2.9572856110069257,40,0,A,O,High,Medium,0,White,Low
+3.8434013688117137,39,0,O,O,Medium,High,0,Hispanic,Low
+3.7362564809157917,38,0,A,Rh-,High,Medium,0,Other,Low
+3.2163254360656808,37,0,O,Rh-,Medium,Medium,0,East Asian,Low
+2.727115184399258,39,1,AB,B,Medium,High,0,Hispanic,Mild
+3.8431463911855994,36,0,AB,B,Medium,Low,0,Black,Mild
+3.5406154018075866,39,1,AB,A,Medium,Medium,0,White,Low
+4.044636783471279,35,0,B,O,High,High,0,Hispanic,Low
+3.5403270022239868,37,1,B,O,High,High,0,Hispanic,Low
+4.2043630006370805,36,0,O,Rh-,High,Medium,0,Other,Low
+3.6038136775489713,38,0,AB,A,High,High,0,Hispanic,Low
+3.6218759430707728,40,0,B,O,High,High,0,Other,Low
+4.25330720531669,36,1,AB,A,High,High,0,White,Mild
+3.306965732424794,38,0,B,A,Low,High,0,White,Low
+2.7680304569012817,40,0,A,Rh-,High,Low,1,Black,High
+2.557565352626678,40,0,A,A,Medium,Medium,0,Other,Low
+4.010274511347238,36,0,AB,B,Medium,Medium,0,Other,Low
+3.7406191027069293,39,1,O,B,High,High,0,East Asian,Moderate
+3.908159536198447,39,0,B,AB,Medium,High,0,East Asian,Low
+2.9259283230178212,40,0,B,Rh-,Low,High,0,Black,Mild
+2.7727429511735395,39,0,A,AB,Medium,High,0,White,Low
+2.529089331335764,35,0,A,B,Low,Low,0,East Asian,Very High
+3.201175117613194,40,0,O,AB,High,Medium,0,Hispanic,Low
+3.679835373709266,40,0,O,Rh-,Low,Medium,0,White,Low
+3.2844880901994644,38,0,O,Rh-,Medium,Medium,0,Hispanic,Low
+3.374949844047458,39,0,AB,A,High,Low,0,Other,Low
+4.308317388987497,40,0,A,O,Medium,Low,0,White,Low
+3.196510934046601,35,0,AB,A,High,High,0,Black,Low
+3.527978978319622,38,0,A,Rh-,Low,High,0,Other,Mild
+4.067306025482286,36,0,A,B,High,High,1,Other,Mild
+3.2930855646425403,40,0,B,B,High,High,0,Hispanic,Low
+3.7441734004557468,35,1,A,A,High,Medium,0,Other,Mild
+4.22472741749349,37,1,A,Rh-,High,High,0,East Asian,Moderate
+4.399041247315284,35,0,AB,B,High,High,1,White,Mild
+2.794146961858076,35,0,A,Rh-,Low,High,0,East Asian,Very High
+4.353175250322989,38,1,AB,B,Medium,Medium,0,Hispanic,Low
+3.4842325861590764,36,0,O,Rh-,Medium,Low,1,Hispanic,Moderate
+3.0164887765979165,37,0,A,AB,High,Low,1,White,Mild
+3.4182715124765224,39,0,A,Rh-,Medium,High,0,Other,Low
+4.460065150570954,39,0,AB,Rh-,Medium,High,0,Black,Low
+3.4852361879857394,35,0,O,A,Medium,High,0,Hispanic,Mild
+3.157503220575016,38,0,B,AB,Low,Medium,0,White,Low
+3.7668017086334515,38,1,O,O,Medium,High,0,Black,Low
+2.9802912375563864,39,1,AB,A,High,High,0,Other,Low
+2.6517266562173276,37,0,O,O,High,Medium,0,Hispanic,Low
+2.7577594438212985,36,0,AB,B,High,Medium,0,White,Mild
+2.7560916779155447,37,0,AB,O,High,High,0,White,Low
+2.803805387024589,40,0,B,Rh-,Medium,Medium,0,White,Low
+2.7776543452988203,40,0,A,O,Medium,High,0,Hispanic,Low
+3.781749489606429,36,0,AB,A,Medium,High,0,Black,Low
+2.8637601687982897,39,1,AB,A,Medium,High,1,White,Mild
+3.1913345666477264,36,0,B,O,High,High,0,Other,Low
+4.293576819812023,38,0,AB,A,Medium,High,0,White,Low
+3.4479232805257447,40,1,A,A,Low,High,1,Black,Moderate
+3.8351154770420544,35,0,B,O,High,Medium,0,Hispanic,Low
+2.8446397424032597,35,0,A,AB,High,Low,0,White,Mild
+2.8845780376173416,39,0,A,AB,High,Medium,1,White,Low
+2.5817372325329577,38,0,B,B,High,High,0,Other,Low
+2.8378701261443293,37,0,AB,A,High,Low,0,Other,Low
+3.0571806780639172,38,0,A,O,Medium,Low,0,White,Low
+2.8540209685534936,35,0,A,A,High,Low,0,White,Mild
+2.677405067514111,35,1,A,Rh-,Medium,High,0,Other,High
+2.7412717422012016,40,0,A,A,High,High,1,Black,Mild
+3.4215575360654515,38,0,B,A,High,High,0,East Asian,Low
+2.912667436811585,38,0,B,AB,Low,Medium,0,East Asian,Mild
+3.228539722096151,35,0,O,O,High,High,0,White,Low
+3.506834541709714,37,0,O,A,High,High,0,Other,Low
+3.8807896572587306,39,0,A,AB,Medium,High,0,Hispanic,Low
+2.578624279682198,39,0,AB,B,High,High,0,Hispanic,Low
+4.098820797818085,38,0,A,AB,Low,Low,0,East Asian,Moderate
+3.7558007789818157,39,0,AB,AB,High,High,0,Black,Low
+2.663518063897744,35,0,A,AB,High,Medium,0,East Asian,Moderate
+4.247157248213554,35,0,O,A,High,Medium,0,White,Mild
+4.341744801063626,38,1,O,A,High,High,0,Black,Mild
+2.6221559197097273,38,0,AB,B,High,Medium,0,Hispanic,Low
+3.0537552962944075,40,0,A,Rh-,High,Medium,0,Other,Low
+4.112402559586123,38,0,AB,Rh-,Medium,High,0,Other,Low
+3.9965193807673165,37,0,O,Rh-,High,Low,0,White,Low
+2.8690420387127546,39,0,A,B,Low,High,0,East Asian,Mild
+2.9186986466734206,38,0,A,Rh-,High,High,1,White,Mild
+3.240944205582764,36,0,AB,Rh-,Medium,High,0,Other,Mild
+3.4690459703820427,40,0,B,AB,Low,High,0,Hispanic,Low
+3.736509543060592,36,0,AB,A,High,High,0,Other,Low
+3.2378272791395446,35,0,O,A,Medium,High,0,Black,Mild
+3.425069432266296,39,0,O,AB,Medium,High,0,Other,Low
+3.994941876267513,38,1,O,AB,Medium,High,0,Other,Mild
+2.573366405781196,36,0,O,AB,Low,High,0,Black,High
+3.0048738886880413,39,0,O,A,Medium,High,1,East Asian,Moderate
+3.926699171769105,35,0,B,Rh-,Low,Low,1,Other,Very High
+4.290413675374399,37,0,A,AB,High,Medium,0,White,Low
+3.523354884231332,40,0,AB,B,Low,High,0,Other,Low
+3.5642269705306315,39,0,AB,AB,High,Medium,0,White,Low
+2.714344022679552,39,0,O,O,Medium,Low,0,Black,Mild
+3.3948247336469093,37,0,AB,AB,High,High,0,Other,Low
+3.565234532910046,39,0,O,A,High,Low,0,Black,Mild
+2.9849410072694593,35,0,B,AB,Medium,Medium,0,Black,Low
+3.0384864618987617,35,0,B,O,High,High,0,East Asian,Mild
+3.2545683262092453,37,0,A,B,High,High,0,Other,Low
+2.5401423955554527,40,0,B,Rh-,High,Medium,0,White,Mild
+3.1441583311663566,38,0,B,AB,High,High,0,White,Low
+2.922896013993089,36,0,A,O,Low,High,0,Other,Mild
+3.154994704355829,38,0,AB,O,High,Medium,0,East Asian,Low
+2.7395242636385024,39,0,O,B,High,Medium,0,East Asian,Moderate
+4.28105456147979,36,1,O,A,High,High,1,East Asian,Very High
+3.6871849071080973,37,0,AB,AB,Medium,High,0,White,Low
+3.858204638288979,37,0,A,O,High,High,0,Black,Low
+4.078342477214677,40,0,AB,B,High,High,0,East Asian,Low
+3.4968843978581146,36,0,B,Rh-,Medium,High,0,White,Mild
+2.6738405761748476,35,0,A,O,Low,Medium,0,White,Moderate
+3.574213083637096,36,0,A,B,Medium,High,0,Black,Low
+3.673682236041758,39,1,A,A,High,Medium,0,Other,Low
+3.99087894836866,35,0,O,A,High,High,0,Other,Mild
+3.363319092459359,37,0,AB,O,High,High,0,East Asian,Low
+2.7551606055911275,36,1,A,O,High,Low,0,East Asian,Very High
+3.0675518115974487,38,0,A,AB,High,High,0,Black,Low
+3.22616459279727,40,0,A,B,Medium,Medium,0,East Asian,Low
+3.7918344826632024,38,0,AB,O,High,Medium,0,Black,Low
+3.6415566093378238,40,0,O,AB,High,High,0,White,Low
+3.2121934517956925,39,0,B,AB,High,Medium,0,East Asian,Low
+4.47303049758596,38,1,O,O,High,High,0,White,Low
+3.711549638713774,36,0,A,A,High,Low,0,Hispanic,Mild
+2.974453583471989,36,0,O,B,High,High,1,Black,Moderate
+2.7035649452408075,38,0,O,B,High,High,0,Hispanic,Mild
+2.805718278368664,36,0,B,A,High,High,0,East Asian,Mild
+2.991915456769016,39,1,AB,O,High,Medium,0,White,Low
+2.821362746519111,35,0,AB,B,Medium,High,0,East Asian,Mild
+2.8731340481026115,39,0,O,O,Medium,Medium,1,Hispanic,Low
+3.070190337387694,40,0,O,O,Medium,Low,0,East Asian,Mild
+2.8467471905895096,39,0,AB,AB,High,Medium,0,Other,Low
+4.29353084925285,40,0,AB,A,Medium,Low,0,Hispanic,Low
+2.6604674913232844,36,0,B,O,Medium,High,0,East Asian,Moderate
+3.5490227791405093,35,0,A,Rh-,Low,Medium,0,White,Moderate
+3.3207936539793232,36,0,O,A,Medium,High,1,East Asian,High
+4.464757233817213,37,0,AB,B,High,High,0,White,Low
+2.7240778043361047,36,0,O,AB,Medium,Medium,0,Other,Moderate
+3.2957111980914835,40,0,O,B,High,High,1,East Asian,Moderate
+4.4389408665507375,36,0,AB,B,High,Low,0,Other,Mild
+4.23101425178796,36,0,B,A,High,Medium,0,Hispanic,Low
+4.13414414189856,35,0,O,B,Medium,Low,0,White,Moderate
+3.0158056540898794,36,0,B,O,High,High,0,Hispanic,Low
+2.841775174780132,35,0,AB,B,High,High,0,White,Low
+3.837286439848862,38,0,A,AB,High,Medium,0,Other,Low
+4.358751978255172,37,0,A,AB,High,Medium,0,Black,Low
+3.61352578602786,35,1,O,Rh-,Medium,High,0,East Asian,Moderate
+3.6432253789397997,40,0,AB,AB,Low,Medium,0,Other,Low
+3.0599581873205683,38,0,B,B,Medium,High,0,White,Low
+4.038985866383873,35,0,O,AB,High,High,0,White,Mild
+2.8740874971150467,35,0,AB,A,Medium,Medium,0,White,Low
+3.147358472808487,37,0,AB,AB,Medium,High,0,White,Low
+3.350872877232834,40,0,B,O,High,Medium,0,East Asian,Low
+3.51522075736891,39,1,O,A,Low,High,0,Hispanic,Moderate
+2.9848194648301605,39,0,AB,Rh-,Medium,High,0,Black,Low
+2.729673649478407,35,1,AB,O,High,Low,0,East Asian,Very High
+3.721240084883265,36,0,AB,B,Low,Low,0,White,Moderate
+3.0772611064805115,40,0,B,B,Medium,High,0,East Asian,Low
+3.6624764428452243,38,1,O,B,High,High,0,Other,Mild
+2.808725430548405,36,0,O,O,High,Low,0,White,Mild
+3.4622802037096347,36,0,O,O,High,High,0,Black,Low
+3.5651788651031717,40,0,O,O,High,Medium,0,White,Low
+2.603647073644854,35,0,A,A,High,Medium,1,Black,Moderate
+3.1732085563878414,35,0,A,A,High,High,0,Black,Low
+2.7688293538779485,35,0,O,B,High,Low,0,Hispanic,High
+2.6267499409455355,35,0,B,AB,High,High,0,Hispanic,Mild
+4.479920464779891,39,0,A,B,High,Medium,0,East Asian,Low
+3.144707689949446,35,0,AB,Rh-,High,High,0,East Asian,Moderate
+4.1197488917092695,39,0,A,A,Medium,Medium,0,Black,Low
+3.0092813095275277,39,0,AB,O,Medium,High,0,White,Low
+3.8630054444478583,35,0,O,A,Low,High,0,Other,Moderate
+4.020455719779373,37,0,A,O,High,Low,0,Other,Low
+3.6912774812156885,38,0,B,Rh-,High,High,0,White,Low
+3.4431523771003167,36,0,A,Rh-,High,Medium,0,White,Mild
+3.323681828294537,39,0,A,A,Medium,Low,0,Hispanic,Low
+3.1977365330859904,40,0,A,O,High,High,0,Other,Low
+4.3590582884956515,40,0,O,Rh-,Medium,Medium,0,Black,Low
+4.161238815575459,38,0,B,B,Low,High,0,East Asian,Mild
+4.430053821333026,40,0,A,B,Medium,High,1,Hispanic,Low
+2.7485944469710892,37,0,B,O,High,High,1,Other,Mild
+3.9617349504072887,40,0,O,A,High,Low,0,White,Mild
+4.376680913642076,36,0,AB,Rh-,High,Medium,0,Other,Mild
+2.8624661323313205,36,0,A,A,Medium,Medium,0,Black,Low
+2.632992534733555,39,1,B,B,High,High,0,Hispanic,Mild
+3.982241298580118,35,1,B,Rh-,High,High,0,White,Moderate
+3.648946226359824,37,0,O,A,Medium,High,0,Black,Low
+4.183657553516544,39,0,A,AB,High,Low,1,East Asian,Moderate
+2.779544753252579,37,0,AB,O,High,Medium,0,Hispanic,Low
+4.090534623719781,35,0,B,O,High,Low,0,Black,Mild
+2.903254640095489,40,0,A,AB,High,Low,0,Black,Low
+2.827311885731409,40,0,AB,B,High,Medium,0,White,Low
+2.828531595861986,35,0,B,Rh-,Medium,Medium,0,East Asian,Moderate
+4.129149440462764,39,0,B,O,High,Medium,0,Black,Low
+3.8303944413924,35,0,AB,AB,Medium,Low,0,Hispanic,Mild
+3.5461308495382386,38,0,AB,AB,Medium,Low,0,Black,Low
+3.2176609682470048,36,0,O,B,Low,Low,1,Other,Very High
+4.2544010816262166,39,1,A,B,High,Low,0,Hispanic,Mild
+3.2848902148452708,37,0,A,A,High,Medium,0,Hispanic,Low
+4.133198878943154,38,0,O,O,Medium,High,0,Black,Low
+3.3782698171404366,39,0,B,A,High,Low,0,White,Low
+3.253888858849815,35,0,AB,AB,High,Medium,0,Hispanic,Low
+3.4253595713392126,35,0,AB,Rh-,Medium,Medium,1,Other,Moderate
+3.102755748328284,35,0,AB,Rh-,Medium,Low,0,White,Moderate
+3.9952187603525022,35,0,B,B,High,Low,1,White,Moderate
+3.5054407801849585,37,0,AB,Rh-,Medium,Medium,0,White,Low
+2.9644253902936346,38,0,AB,Rh-,High,High,0,Hispanic,Low
+4.299149146549137,40,0,O,Rh-,Low,Medium,1,White,Mild
+3.267782442746423,36,0,B,AB,High,Low,0,Black,Mild
+3.587105722227977,37,0,A,Rh-,High,High,0,White,Low
+4.312944221929094,37,0,O,Rh-,High,Medium,0,Other,Low
+3.748475991827984,40,1,O,Rh-,High,Medium,0,East Asian,Mild
+2.7337960814167284,40,0,A,A,High,High,0,Other,Low
+4.37966424722695,36,0,O,AB,High,High,1,Hispanic,Moderate
+3.7554161061428357,36,0,B,B,High,Medium,0,White,Low
+3.1698112293141723,40,0,AB,A,Low,Medium,0,White,Low
+2.7785441453267747,35,0,B,O,High,Medium,1,Black,Moderate
+4.088050378540592,37,0,A,AB,Low,Low,0,White,Mild
+3.740145511857027,39,1,A,AB,High,High,0,Other,Low
+3.5669221839526433,36,0,O,O,Medium,Low,0,Hispanic,Mild
+4.287785166101916,36,0,B,O,High,Medium,0,East Asian,Mild
+4.077194422449061,40,0,B,O,Medium,High,0,White,Low
+2.8033497594655024,38,0,A,B,High,High,1,East Asian,Mild
+3.1234441355910967,39,0,B,Rh-,High,Medium,0,White,Low
+2.9969782796289315,39,0,A,AB,Medium,High,0,Hispanic,Low
+3.987892585145354,36,0,B,Rh-,High,Medium,0,Other,Mild
+2.567064869471559,35,0,B,Rh-,Medium,High,0,Hispanic,Moderate
+3.639779369742633,38,0,B,O,High,Medium,0,East Asian,Low
+4.024917371481381,39,1,A,B,High,Low,0,White,Mild
+4.253531273523499,36,0,O,A,Medium,Low,0,East Asian,High
+3.1841634974318147,39,1,B,B,High,Medium,0,Other,Low
+4.142514609344026,38,0,A,Rh-,Medium,Medium,0,Hispanic,Low
+2.7212634739104145,38,1,A,B,Low,High,0,East Asian,High
+4.192904583469036,37,0,B,O,High,High,0,East Asian,Low
+2.754977324663965,40,0,B,A,Low,Medium,0,Other,Mild
+3.2945745811207345,40,1,O,O,High,Medium,0,White,Low
+4.094590731559107,36,0,A,A,High,Low,0,East Asian,Moderate
+2.7998348546975476,38,1,A,Rh-,Medium,High,0,Other,Moderate
+2.9585027904652828,37,0,AB,A,High,High,0,White,Low
+3.9445051367861326,37,0,A,A,Medium,High,0,White,Low
+3.9400730730921487,39,0,O,A,High,High,0,Hispanic,Low
+3.7822952657705944,39,0,AB,B,Low,Low,0,Other,Mild
+3.8878968889342,37,0,AB,B,Medium,Low,0,White,Low
+3.5854488866951923,39,0,AB,Rh-,Medium,High,0,Hispanic,Low
+3.0035981178139055,38,0,B,A,High,High,0,Black,Low
+3.191391987007839,35,0,B,AB,High,Low,1,Other,Moderate
+2.8631954336028516,38,0,A,Rh-,High,Low,1,Black,Moderate
+4.3169011226672565,37,0,AB,A,High,High,0,White,Low
+3.666783589532241,37,0,O,A,High,Low,0,Other,Mild
+3.30170283352728,38,0,B,B,High,Medium,0,Hispanic,Low
+3.424011607288265,39,0,O,Rh-,Medium,High,0,White,Low
+4.39456667922363,39,0,O,A,High,Medium,0,Other,Low
+2.8067028062321606,40,0,B,A,High,Low,0,Other,Low
+3.6724596640335943,37,0,B,Rh-,Medium,High,0,Black,Low
+3.511777357768932,36,1,B,AB,High,High,0,White,Mild
+3.722908470869296,40,0,B,Rh-,High,High,1,Hispanic,Mild
+2.536220367641681,39,0,AB,Rh-,High,Medium,0,Hispanic,Mild
+4.2442478178883025,38,0,AB,AB,High,Low,0,White,Low
+4.364236564967225,39,0,AB,Rh-,Medium,High,0,White,Low
+3.630266367178418,38,0,AB,A,Medium,High,0,East Asian,Low
+3.8933016477537845,40,0,A,Rh-,Low,Medium,0,Black,Mild
+4.344998762354591,37,0,AB,AB,High,High,0,White,Low
+3.914477268626797,39,0,B,O,Low,Medium,0,White,Low
+2.805078085828523,38,1,O,Rh-,High,Medium,0,East Asian,Mild
+3.6525767203336263,37,1,AB,B,Medium,Low,0,East Asian,Moderate
+3.713430092765712,36,0,A,A,Medium,Medium,1,Other,Mild
+3.348261342604772,38,0,B,A,High,Medium,0,Hispanic,Low
+3.972888471249446,40,0,O,B,High,High,0,Black,Low
+4.36873402953803,36,0,O,B,Medium,High,0,Other,Mild
+4.351137025813553,36,0,AB,Rh-,High,High,0,White,Mild
+3.401678742808264,35,0,O,B,High,Low,0,East Asian,High
+2.7264760916815103,39,0,AB,O,Medium,Low,0,Hispanic,Mild
+4.469682397924669,38,0,AB,AB,Medium,Low,0,Other,Low
+4.177796172891869,36,0,B,B,High,Low,0,Hispanic,Mild
+2.749325362406534,35,1,B,B,High,High,0,East Asian,High
+4.341683765234745,40,1,A,O,Low,High,0,Other,Mild
+4.239792724124257,37,0,B,A,High,High,1,Other,Low
+3.537676114252144,38,0,B,A,High,Medium,0,Hispanic,Low
+3.6825508714898585,36,1,AB,Rh-,High,Medium,0,East Asian,High
+3.2980054077402605,39,0,B,O,High,Medium,0,White,Low
+2.6095232776440627,35,0,AB,AB,High,Low,1,Other,High
+3.170394483291802,36,0,AB,AB,High,High,0,White,Low
+4.105706897196023,39,0,B,O,High,High,0,East Asian,Low
+2.5092640460092057,36,0,A,AB,High,Medium,0,Other,Mild
+3.1669983433822884,38,1,A,A,High,High,0,Other,Low
+3.296337387181887,38,1,O,AB,High,High,0,White,Mild
+3.5747912058758455,38,0,O,AB,Medium,Low,0,Black,Mild
+4.339711232825521,40,0,B,O,High,High,1,White,Low
+3.1926919887319225,40,1,A,O,High,Medium,0,White,Low
+3.1939064037924556,35,0,AB,AB,High,Low,1,Black,Moderate
+3.9750024962194965,38,1,O,B,High,High,0,East Asian,Moderate
+3.404435881779614,39,0,AB,O,High,High,0,East Asian,Low
+2.949209645879964,36,0,O,Rh-,Medium,Medium,1,Other,Mild
+3.404879032265387,37,0,B,Rh-,High,Medium,0,Hispanic,Low
+2.7817140407595997,39,0,A,A,High,High,0,Hispanic,Low
+2.8527739730124466,40,0,O,AB,Medium,High,0,Other,Low
+3.4967355454789595,40,0,A,B,Medium,High,0,Hispanic,Low
+3.337850899009096,39,0,AB,A,High,Medium,0,White,Low
+4.3296918021362,40,0,B,AB,Medium,High,0,White,Low
+3.2247877982332662,38,0,A,O,Medium,Low,0,Black,Low
+3.661176700556087,35,1,B,Rh-,High,High,0,Black,Moderate
+3.7645285758390608,36,1,A,B,High,Low,0,Other,Moderate
+2.526188913176667,35,0,AB,Rh-,High,High,0,Other,Moderate
+3.827074744033421,36,0,AB,O,High,Medium,0,Other,Low
+2.8560719337395026,36,0,B,AB,Medium,Medium,0,White,Low
+4.42214063493891,35,0,AB,O,High,Medium,0,Hispanic,Low
+2.797325455506226,39,1,O,O,High,Low,0,Other,Moderate
+3.3292482474540472,36,0,A,Rh-,High,High,0,Other,Mild
+2.6706993361572877,35,0,AB,B,High,High,1,White,Moderate
+4.4937485036918945,36,1,O,O,High,High,0,White,Mild
+3.504390020662485,37,0,B,Rh-,High,Low,0,White,Mild
+3.690770034640088,39,0,O,B,High,High,0,Hispanic,Low
+2.634152954776855,38,1,B,AB,High,High,0,Other,Mild
+3.9999209407983556,36,0,B,AB,High,Medium,0,East Asian,Mild
+2.9198111861911715,37,1,A,A,High,Low,0,East Asian,Moderate
+4.2961085788814275,38,0,A,Rh-,High,High,0,Other,Low
+2.9102792809640143,38,0,O,B,High,High,1,Other,Mild
+2.881375441327333,36,0,A,O,High,High,0,Other,Low
+2.57309933569619,35,1,A,AB,High,Medium,0,Other,Moderate
+3.4441338902199985,36,0,A,B,High,High,0,Hispanic,Low
+3.629682266525233,37,0,O,Rh-,High,Low,1,East Asian,Moderate
+2.6314172788567047,38,0,AB,A,High,High,0,Black,Low
+4.051055233390021,36,0,A,AB,High,High,0,East Asian,Mild
+3.4065776694960554,35,0,A,B,High,Low,0,East Asian,Moderate
+3.5487805386551603,36,0,O,B,High,High,0,White,Mild
+3.381525493876456,39,0,AB,B,High,Medium,0,Other,Low
+3.301526121750652,35,0,A,Rh-,High,High,0,Other,Mild
+3.6192806626164358,37,0,B,Rh-,High,Medium,0,Other,Low
+2.810480491861425,38,0,O,Rh-,High,Low,0,White,Low
+2.8638562609905422,36,0,A,O,Medium,Medium,0,Hispanic,Low
+4.223571242027035,35,1,A,B,High,Medium,0,Hispanic,Mild
+4.392230924267265,39,0,B,AB,High,Low,0,Black,Low
+3.246618632559506,35,1,B,Rh-,High,High,0,Hispanic,Moderate
+3.0414893462871078,40,0,O,Rh-,High,High,0,Hispanic,Low
+3.7879990864780315,39,0,O,B,High,High,0,Other,Low
+3.317468342196193,37,0,B,Rh-,High,Low,0,East Asian,Moderate
+2.5507727113206897,38,0,O,O,High,High,0,Hispanic,Low
+2.8123051947323807,37,0,B,O,High,Low,0,Hispanic,Low
+3.931944457694795,36,0,A,Rh-,High,High,0,White,Mild
+3.8178478838203027,35,0,B,B,Medium,Low,0,Black,Mild
+2.554191985006967,40,0,B,B,High,High,0,White,Low
+2.9439443238658987,39,0,AB,B,High,High,0,Other,Low
+2.962149593176143,39,0,B,A,Medium,High,1,East Asian,Mild
+3.843785487197457,35,0,B,Rh-,High,Medium,0,Black,Mild
+2.539421075508728,40,0,AB,B,High,Low,1,White,Moderate
+2.708217163969148,35,0,O,O,Medium,Medium,0,Hispanic,Mild
+4.099832170746379,36,0,AB,AB,High,High,0,Hispanic,Low
+2.8570893241086672,37,0,A,AB,Low,High,0,Black,Low
+3.805492215703749,39,0,AB,B,High,Low,0,Hispanic,Low
+2.976365562093453,36,0,A,AB,High,High,0,White,Low
+2.6988827855186903,37,0,O,AB,High,High,0,White,Mild
+2.986344381998908,36,0,AB,A,Medium,High,0,Hispanic,Low
+3.9445338637113183,40,0,AB,O,Low,Low,0,Hispanic,Mild
+4.2113929362125715,39,0,O,O,Medium,Medium,0,Other,Low
+4.160439729133984,35,0,A,A,High,Medium,0,East Asian,Mild
+3.29436705923691,35,0,AB,A,Medium,High,0,Black,Low
+3.8361702731412923,37,1,A,AB,High,Medium,0,White,Low
+2.909968590831642,38,0,AB,Rh-,Medium,Medium,0,Black,Low
+3.0862954605220265,40,1,B,AB,High,High,0,Other,Low
+4.29267163704224,37,0,AB,A,Medium,High,0,White,Low
+2.526003847021472,38,0,O,O,Medium,High,1,Other,Mild
+2.671017061708936,36,0,O,AB,High,Medium,0,Other,Moderate
+2.9157725102920544,40,0,A,Rh-,Medium,Low,0,Hispanic,Mild
+2.553064407747639,36,0,AB,AB,Medium,High,0,Black,Mild
+2.8628708701795946,39,0,A,B,High,Medium,0,Black,Low
+3.6660831219393843,40,0,A,AB,High,Low,0,Hispanic,Low
+3.3428491011849957,38,0,B,A,High,Medium,0,Black,Low
+4.28534342215395,39,0,B,O,Medium,Low,0,Hispanic,Low
+4.134887123476882,35,0,O,O,High,Medium,1,White,Mild
+3.183634703395752,38,0,A,A,Medium,High,0,Other,Low
+3.018846866862585,37,0,O,B,Low,High,0,Other,Mild
+3.259384816334534,35,0,AB,A,High,High,1,Black,Mild
+3.6805898850296153,35,1,A,AB,High,Low,0,East Asian,High
+3.0361272816457525,37,0,A,A,Medium,Medium,0,Other,Low
+3.748297815698268,40,1,AB,A,High,Low,0,Hispanic,Mild
+3.318823304382481,35,0,AB,B,Medium,High,0,East Asian,Mild
+3.6040943617039605,38,0,O,AB,High,Medium,0,East Asian,Mild
+3.3722530582706334,39,0,O,Rh-,Medium,High,0,Other,Low
+3.088931519083835,35,0,AB,Rh-,Low,High,0,Other,Moderate
+4.396906613924314,38,1,O,O,High,Medium,1,Other,Mild
+4.027211588319521,36,0,AB,A,High,Medium,0,Hispanic,Low
+2.780226351532905,38,0,A,O,High,High,1,East Asian,Moderate
+4.236935951795825,39,0,A,B,Low,High,1,Black,Mild
+3.4748623964990273,38,0,B,Rh-,Medium,Medium,0,Hispanic,Low
+4.289104453788183,37,1,A,A,High,Medium,0,White,Low
+4.099710511894631,39,0,AB,B,Medium,High,0,Other,Low
+3.3504270089384667,40,0,O,B,High,Low,0,East Asian,Moderate
+2.544938616640235,36,0,B,A,Low,Medium,0,Hispanic,Moderate
+3.037354718769892,37,0,O,B,High,Low,1,White,Moderate
+3.583268429321734,40,0,AB,A,High,High,0,Hispanic,Low
+3.7669564396522945,38,0,A,A,Medium,Low,0,Hispanic,Low
+3.015775370866405,39,0,B,AB,High,Medium,0,Black,Low
+2.7787121481456483,36,0,AB,O,High,Medium,0,Black,Mild
+4.1698604735985985,37,0,B,B,Medium,High,0,Hispanic,Low
+4.468804361407104,40,0,B,B,High,High,0,White,Low
+3.5513803646053717,40,0,A,AB,High,High,0,East Asian,Low
+2.8433585716966068,36,0,AB,AB,Medium,High,0,East Asian,Mild
+3.044614653038738,38,0,O,AB,High,High,0,Other,Low
+2.5367813530949332,36,0,B,Rh-,Medium,Low,0,Other,High
+4.328597613120998,40,0,B,Rh-,High,Medium,0,East Asian,Mild
+2.7355021657802823,35,0,O,Rh-,High,High,0,Hispanic,Mild
+3.653032951028507,37,0,AB,A,High,Medium,0,Hispanic,Low
+3.048110441374412,36,0,B,B,High,Low,0,Black,Mild
+3.608356005031587,40,0,B,O,High,High,0,Black,Low
+3.8028407767037287,38,0,B,A,High,Medium,1,Other,Low
+4.159483607414403,40,0,AB,B,Medium,Medium,0,East Asian,Low
+2.912842543521206,38,0,AB,B,High,High,0,Hispanic,Low
+2.5219916573169607,36,0,O,AB,Low,High,1,East Asian,Very High
+2.7737712601376145,38,0,AB,AB,High,Medium,0,White,Low
+4.30003728369621,39,0,AB,A,High,High,0,East Asian,Low
+4.247780155125031,39,0,A,AB,Low,High,1,White,Mild
+3.6948262043406164,39,0,O,B,Low,High,0,Black,Mild
+3.701033720867307,35,0,B,AB,Medium,Low,0,Black,Mild
+3.830073349092511,36,0,AB,Rh-,High,Low,1,Other,High
+2.850742557246899,40,0,B,AB,High,High,0,East Asian,Low
+4.32882389184992,40,0,B,B,High,High,0,East Asian,Low
+3.3375410497841465,35,0,A,A,High,High,0,White,Low
+3.266277056498995,38,0,AB,O,High,Low,0,Black,Low
+3.537835410565675,35,0,O,AB,Medium,Low,0,White,Moderate
+2.59393193355011,38,0,AB,B,Medium,High,0,Black,Low
+2.832566737512159,38,0,B,O,High,Low,1,White,Mild
+3.976067232852741,37,0,O,O,High,High,1,Black,Low
+2.665597335850253,40,0,AB,Rh-,Low,Low,1,White,Very High
+3.706304218932776,39,0,B,O,Medium,Low,0,Black,Low
+2.990698219362642,38,1,B,B,Medium,High,0,White,Low
+3.278591228083953,37,0,A,B,High,High,1,East Asian,Mild
+3.0773874735413997,40,1,A,AB,Medium,Medium,1,Other,Mild
+3.2113454329298983,39,0,A,AB,High,Medium,0,White,Low
+3.938091810368491,38,1,B,AB,High,High,0,Other,Low
+3.0942434312463503,38,0,AB,O,Medium,Medium,0,East Asian,Low
+3.6328092805937944,35,0,A,O,High,High,0,East Asian,Mild
+3.4521008043981993,35,0,AB,Rh-,High,High,0,Black,Mild
+3.8273423307252963,40,0,A,AB,High,Low,0,Other,Low
+4.373659478649516,39,0,O,A,High,High,0,Hispanic,Low
+3.9651441944205006,38,0,O,Rh-,High,Low,0,Black,Low
+2.9298807571815138,40,0,A,A,High,High,0,Other,Low
+2.5623662701225696,40,0,B,O,High,Medium,0,White,Low
+3.0245280885996504,36,0,A,Rh-,Low,High,0,White,Moderate
+3.69015586140051,35,0,A,Rh-,Low,Medium,0,East Asian,High
+2.6028516269685005,39,1,B,B,Medium,Medium,0,Hispanic,Mild
+3.492732494402473,38,0,O,O,Medium,High,0,White,Low
+3.6936856978337786,40,1,AB,O,Medium,High,0,Other,Low
+3.168487781633922,38,0,A,Rh-,Medium,High,0,Other,Low
+4.041824407491644,36,0,B,O,High,Medium,0,White,Low
+2.7131965062675434,39,0,A,Rh-,High,High,1,Other,Moderate
+2.6502755634716175,40,0,B,B,High,Low,0,Other,Mild
+3.9563775124072067,38,0,AB,Rh-,High,Low,0,East Asian,Moderate
+3.490982632412397,35,0,AB,O,High,High,0,Hispanic,Low
+3.876804792855472,36,0,O,O,High,Medium,1,East Asian,Moderate
+3.3696546772074925,39,1,B,Rh-,High,High,0,Hispanic,Mild
+2.9928040664782136,36,0,B,Rh-,Medium,High,0,Other,Mild
+4.1382046353484,35,0,O,Rh-,High,High,0,Hispanic,Low
+4.098831757937958,39,0,O,AB,High,High,0,Other,Low
+3.8893929417088535,36,0,B,O,High,High,1,Other,Mild
+3.044290274459925,37,0,O,O,Medium,Low,0,East Asian,Mild
+3.680461333738174,35,0,AB,AB,Medium,High,0,East Asian,Mild
+3.2219477938800534,35,0,A,Rh-,High,Medium,0,Black,Mild
+2.6831641466532683,35,0,AB,B,High,Medium,0,White,Mild
+4.334627150924486,37,0,O,Rh-,Medium,High,0,Black,Low
+2.773637261837923,37,0,B,Rh-,Medium,High,0,Black,Mild
+4.400474707641605,38,1,B,AB,High,High,0,Hispanic,Low
+3.3920115459159117,40,0,AB,O,High,Medium,0,Other,Low

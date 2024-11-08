@@ -1,14 +1,13 @@
 import React from "react";
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 // TeamCard Component
-const TeamCard = ({ name, role, imgSrc, github, instagram, linkedin }) => {
+const TeamCard = ({ name, role, imgSrc, github, linkedin, bgColor }) => {
   return (
     <div className="max-w-xs w-full bg-white rounded-lg shadow-lg overflow-hidden transform transition-all duration-300 hover:scale-105">
       {/* Profile Image Section */}
       <div className="p-4 flex flex-col items-center">
         {/* Profile Image (circular) */}
-        <div className="w-24 h-24 rounded-full overflow-hidden border-4 border-gray-200 mb-4">
-          <img src={imgSrc} alt={name} className="w-full h-full object-cover" />
+        <div className="w-24 h-24 rounded-full overflow-hidden border-4 border-gray-200 mb-4" style={{ backgroundColor: bgColor }}>
         </div>
 
         {/* Name */}
@@ -46,33 +45,32 @@ const Team = () => {
     {
       name: "Oshika Sharma",
       role: "Team Leader",
-      imgSrc: "", // Placeholder image, replace with actual image URL
       github: "https://github.com/Oshika22",
       linkedin: "https://www.linkedin.com/in/oshika-sharma-a1120529a/",
+      bgColor: "#ffd966",
     },
     {
       name: "Anshul Goyal",
       role: "",
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image, replace with actual image URL
-      github: "https://github.com/janesmith",
+      github: "https://github.com/goelash2",
       linkedin: "https://www.linkedin.com/in/anshulgoyal2/",
+      bgColor: "#FF6F61",
     },
     {
       name: "Pranjali Yeotikar",
-      role: "",
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image, replace with actual image URL
-      github: "https://github.com/janesmith",
+      role: "", 
+      github: "https://github.com/pranjali999",
       linkedin: "https://www.linkedin.com/in/pranjali-yeotikar-042ab82a6/",
+      bgColor: "#ffd966",
     },
     {
       name: "Nishik Ojha",
-      role: "",
-      imgSrc: "https://via.placeholder.com/150", // Placeholder image, replace with actual image URL
-      github: "https://github.com/janesmith",
-      instagram: "https://www.instagram.com/janesmith",
+      role: "", 
+      github: "",
       linkedin: "https://www.linkedin.com/in/nishik-ojha-74785a289/",
+      bgColor: "#FF6F61",
     },
-    // Add more team members as needed
+
   ];
 
   return (
@@ -84,10 +82,10 @@ const Team = () => {
             key={index}
             name={member.name}
             role={member.role}
-            imgSrc={member.imgSrc}
             github={member.github}
             instagram={member.instagram}
             linkedin={member.linkedin}
+            bgColor={member.bgColor}
           />
         ))}
       </div>

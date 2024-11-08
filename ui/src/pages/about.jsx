@@ -1,44 +1,18 @@
 // CircularLayout.jsx
 
 import React, { useEffect, useRef } from "react";
-import gsap from "gsap";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faDownload, faRobot, faChartBar, faBullseye, faFlag, faEye } from '@fortawesome/free-solid-svg-icons';
+import { faBullseye, faFlag, faEye } from '@fortawesome/free-solid-svg-icons';
 
 const CircularLayout = () => {
-  const aimRef = useRef(null);
-  const missionRef = useRef(null);
-  const visionRef = useRef(null);
-
-  // GSAP Animation for hover effect
-  useEffect(() => {
-    gsap.fromTo(
-      aimRef.current,
-      { opacity: 0, scale: 0.5 },
-      { opacity: 1, scale: 1, duration: 1, ease: "bounce.out" }
-    );
-
-    gsap.fromTo(
-      missionRef.current,
-      { opacity: 0, scale: 0.5 },
-      { opacity: 1, scale: 1, duration: 1, ease: "bounce.out", delay: 0.2 }
-    );
-
-    gsap.fromTo(
-      visionRef.current,
-      { opacity: 0, scale: 0.5 },
-      { opacity: 1, scale: 1, duration: 1, ease: "bounce.out", delay: 0.4 }
-    );
-  }, []);
-
   return (
-    <div class="relative py-20">
-      <div class="container mx-auto">
-        <h2 class="text-center text-4xl font-bold">
+    <div className="relative py-20">
+      <div className="container mx-auto">
+        <h2 className="text-center text-4xl font-bold">
           Our Aim, Mission, and Vision
         </h2>
-        <div class="mt-12 flex justify-between">
-          <div class="text-center w-1/3">
+        <div className="mt-12 flex justify-between">
+          <div className="text-center w-1/3">
             <FontAwesomeIcon
               icon={faBullseye}
               size="3x"
@@ -50,7 +24,7 @@ const CircularLayout = () => {
               newborn care.
             </p>
           </div>
-          <div class="text-center w-1/3">
+          <div className="text-center w-1/3">
             <FontAwesomeIcon
               icon={faFlag}
               size="3x"
@@ -62,7 +36,7 @@ const CircularLayout = () => {
               intervention tools for neonatal jaundice.
             </p>
           </div>
-          <div class="text-center w-1/3">
+          <div className="text-center w-1/3">
             <FontAwesomeIcon
               icon={faEye}
               size="3x"
